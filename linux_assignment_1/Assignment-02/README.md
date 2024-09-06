@@ -97,5 +97,3 @@ Here I use a case statement where action is "ls" followed by Team pattern.
 ![image](https://github.com/kiran-opstree/devops_ninja/assets/149475012/226290a6-f730-4d1e-a6a8-b78e4d869c56)
 
 ===========================================================================================
-## Author
-### Kiran Dehlikar
