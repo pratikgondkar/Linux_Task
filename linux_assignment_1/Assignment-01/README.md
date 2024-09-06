@@ -169,5 +169,3 @@ Here I use a case statement where action is "deleteFile" followed by location an
 ![image](https://github.com/kiran-opstree/devops-ninja/assets/149475012/0cc93d8d-425a-498b-aaa5-3990e8bb7767)
 
 =================================================================================================
-## Author
-### Kiran Dehlikar
