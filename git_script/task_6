@@ -1,0 +1,8 @@
+activity-5: reset
+   - Switch to feature1 branch
+   - Create a file feature1.txt with additional content "added feature1"
+   - commit the changes
+   - Create a file feature2.txt with additional content "added feature2"
+   - commit the changes
+   - reset to first commit (try with hard/soft/mixed all three approach)
+   - Share your findings

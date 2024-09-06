@@ -1,0 +1,35 @@
+Create a file with your firstname
+Add few lines to the file without using text editor
+Add few more lines to the file without using text editor
+Rename the file with your lastname
+Print first 5 lines of the file
+Print last 5 lines of the file
+Print lines 2 to 6, don't use sed
+
+Create a file with first name in text editor, don't close the text editor
+Create a file with last name in text editor, don't close the text editor
+List out processes running in a system
+kill the process belonging to file with first name being opened in text editor
+
+
+owner    group    other
+R W X    R W X   R W X
+4 2 1    4 2 1   4 2 1
+7         4         0
+
+chmod u=r,g=rw,o=r jfk.txt
+chmod o-r jfk.txt
+chmod o+rw jfk.txt
+
+sudo chown root:root jfk.txt
+
+sudo netstat -tulnp | grep -w ':80'
+
+setfacl -m u:opstree:rwx a.txt
+sudo setfacl -m u:opstree:rwx a.txt
+
+sudo getfacl a.txt
+sudo setfacl -m u:shantanu:rw a.txt
+sudo getfacl a.txt
+sudo setfacl -x opstree a.txt
+

@@ -1,0 +1,13 @@
+JDK should be installed-- jdk 8
+JAVA_HOME should be set
+Download Maven Zip
+Set M2_HOME to extracted path
+maven –version to validate
+
+https://github.com/opstree/spring3hibernate
+Clone the above repository
+Perform below operations
+Compile the code
+Run tests
+Generate war files
+Deploy war file to your local repo

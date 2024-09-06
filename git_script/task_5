@@ -1,0 +1,11 @@
+activity-4: stash
+   - Switch to feature1 branch
+   - Create a file feature.txt with additional content "Changes from feature1"
+   - stash the changes
+   - Switch to feature2 branch
+   - Create a file feature.txt with additional content "Changes from feature2"
+   - stash the changes
+   - apply stash of feature2 branch into feature1
+   - Share your findings
+   - apply stash of feature1 branch into feature1
+   - Share your findings

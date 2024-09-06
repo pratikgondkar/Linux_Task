@@ -1,0 +1,12 @@
+activity-3: conflict
+   - Switch to feature1 branch
+   - Create a file feature.txt with additional content "Changes from feature1"
+   - Commit the changes
+   - Switch to feature2 branch
+   - Create a file feature.txt with additional content "Changes from feature2"
+   - Commit the changes
+   - Merge feature1 branch into feature2
+   - Share your findings
+   - Ensure that merge is successful
+   - Merge feature2 branch into feature1
+   - Share your findings

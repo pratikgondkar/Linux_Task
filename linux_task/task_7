@@ -1,0 +1,63 @@
+1. Remove all the consonants from the previously shared file
+2. Create a utility that will encrypt a file by converting the character to it's next adjacent character i.e A -> C D -> F Z -> B
+3. We have 3 files hindi.txt, english.txt,maths.txt these files contains names of students in the order of their ranks. Now find student who are in top 5 in atleast 2 subjects and all 3 subjects
+
+English.topper 
+Mrityunjay
+Rakesh Khetwal
+Anubhav
+Anant Chauhan
+Kunwar Kuldeep
+Nishant
+Kritarth Pant
+Siddharth Gupta
+Vineet
+Jatin
+Antra Srivastava
+Aastha
+Vishal Saini
+Kartik Vijan
+Akanksha
+Kirti
+Navneet Singh
+Arpit
+
+Hindi.topper 
+Kritarth Pant
+Mrityunjay
+Rakesh Khetwal
+Anubhav
+Anant Chauhan
+Kunwar Kuldeep
+Nishant
+Siddharth Gupta
+Vineet
+Jatin
+Antra Srivastava
+Aastha
+Vishal Saini
+Kartik Vijan
+Akanksha
+Kirti
+Navneet Singh
+Arpit
+
+Maths.topper  
+Anubhav
+Anant Chauhan
+Kunwar Kuldeep
+Kritarth Pant
+Mrityunjay
+Rakesh Khetwal
+Nishant
+Siddharth Gupta
+Vineet
+Jatin
+Antra Srivastava
+Aastha
+Vishal Saini
+Kartik Vijan
+Akanksha
+Kirti
+Navneet Singh
+Arpit

@@ -1,0 +1,6 @@
+Create a calculator using case statement
+action will be add,sub,mul,div 
+action and values will taken from command line argument
+
+Example
+./script.sh {action} {num1} {num2}

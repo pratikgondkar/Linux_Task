@@ -1,0 +1,6 @@
+Create 3 users on your system: sandy, abhi, neha
+Allow sandy to  ssh connect to abhi & neha
+Allow abhi to ssh connect to neha only
+Allow neha to ssh connect sandy only 
+Remove ssh connection capability of sandy for neha
+Do the cleanup

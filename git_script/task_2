@@ -1,0 +1,16 @@
+activity-1: Fastforward merge
+   - Create a repo
+   - Add a file a.txt with content "First line"
+   - Commit the changes
+   - Update  file a.txt with additional content "Second line"
+   - Commit the changes
+   - Create a branch fastForward(using git branch)
+   - Switch to fastForward branch
+   - Update file a.txt with additional content "Third line"
+   - Commit the changes
+   - Update file a.txt with additional content "Fourth line"
+   - Commit the changes
+   - Merge master branch into fastForward branch
+   - Share your findings
+   - Merge fastForward branch into master branch
+   - Share your findings
